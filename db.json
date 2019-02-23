@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello from post 1",
+      "image": "https://sample.png",
+      "description": "sample description of post 1"
+    }
+  ]
+}
