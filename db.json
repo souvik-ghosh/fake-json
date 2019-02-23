@@ -4,7 +4,11 @@
       "id": 1,
       "title": "hello from post 1",
       "image": "https://sample.png",
-      "description": "sample description of post 1"
+      "description": "sample description of post 1",
+      "aricle": "post 1 article",
+      "liked": false,
+      "bookmarked": false,
+      "disliked": false
     }
   ]
 }
