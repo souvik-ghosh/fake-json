@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "hello from post 1",
-      "image": "https://sample.png",
+      "image": "https://media.nbcsandiego.com/images/652*367/AdobeStock_73745976.jpg",
       "description": "sample description of post 1",
       "aricle": "post 1 article",
       "liked": false,
